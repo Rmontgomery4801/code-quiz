@@ -8,7 +8,7 @@
 3. Once finished enter initials for Highscores.
 
 
-Click link to play code quiz: 
+Click link to play code quiz: https://rmontgomery4801.github.io/code-quiz/
 
 ![Screenshot 1](Assets/1.html.png)
 
