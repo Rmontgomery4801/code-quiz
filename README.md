@@ -1,18 +1,17 @@
 # Code-Quiz
 
-For this project the objective was to build a JavaScript Code Quiz that contains the following:
+# For this project the objective was to build a JavaScript Code Quiz that contains the following:
 
-1. Instructions on how to play.
-3. Click Play to answer multiple choice questions. Green means answer is correct and Red means incorrect answer.
-4. Each question is worth 100 points. 400 points possible.
-5. Once quiz ends user enters in name and can save.
-6. User can view highscores on homepage
+**Instructions on how to play.**
+1. Click "Start Quiz" to answer multiple choice questions.
+2. 60 seconds to answer all questions.
+3. Once finished enter initials for Highscores.
 
 
 Click link to play code quiz: 
 
-![screenshot1](Assets/127.0.0.1_5500_index.html.png)
+![Screenshot 1](Assets/1.html.png)
 
-![screenshot2](Assets/127.0.0.1_5500_game.html.png)
+![Screenshot 2](Assets/2.png)
 
-![screenshot3](Assets/127.0.0.1_5500_end.html.png)
+![Screenshot 3](Assets/3.png)
